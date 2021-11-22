@@ -8,7 +8,6 @@ class somarArray {
     soma = 0
 
     somar(): number {
-        
 
         for (let i = 0; i < this.pares.length; i++) {
             this.soma += this.pares[i]
